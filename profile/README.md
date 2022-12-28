@@ -2,4 +2,4 @@
 
 This organization account is purely for organizational and collaborational purposes. Repositories and projects should and will not be hosted from this account; it is for team members to join in one place to access all repositories. 
 
-**If you're looking on where our GitHub projects are done, visit the active account <a href="https://github.com/yeah-games">@yEAh-Games</a>, and check out the <a href="https://yeahgames.net">Network</a> or the <a href="https://docs.yeahgames.net">Docs</a> for additional information on our projects and getting involved.**
+**If you're looking on where our GitHub projects are managed, visit the active account <a href="https://github.com/yeah-games">@yEAh-Games</a>, and check out the <a href="https://yeahgames.net">Network</a> or the <a href="https://docs.yeahgames.net">Docs</a> for additional information on our projects and getting involved.**
